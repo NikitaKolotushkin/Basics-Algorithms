@@ -10,8 +10,8 @@ Basic algorithms and data structures written in different programming languages
 | Selection sort | **O(n^2)**		   | [Selection Sort Wikipedia] |
 | Comb sort      | **O(nlogn) - O(n^2)**   | [Comb Sort Wikipedia]	|
 | Insertion sort | **O(n) - O(n^2)**       | [Insertion Sort Wikipedia] |
-| Gnome sort	 | **O(n) - O(n^2)**	   |			        |
-| Quick sort	 | **O(nlogn) - O(n^2)**   |			        |
+| Gnome sort	 | **O(n) - O(n^2)**	   | [Gnome Sort Wikipedia]     |
+| Quick sort	 | **O(nlogn) - O(n^2)**   | [Quick Sort Wikipedia]     |
 | Shellsort	 | **O(nlog^2n) - O(n^2)** |			        |
 | Counting sort	 | **O(n) - O(n + k)**	   |			        |
 | Tree sort	 | **O(nlogn)**		   |			        |
@@ -23,3 +23,5 @@ Basic algorithms and data structures written in different programming languages
 [Selection Sort Wikipedia]: https://en.wikipedia.org/wiki/Selection_sort
 [Comb Sort Wikipedia]: https://en.wikipedia.org/wiki/Comb_sort
 [Insertion Sort Wikipedia]: https://en.wikipedia.org/wiki/Insertion_sort
+[Gnome Sort Wikipedia]: https://en.wikipedia.org/wiki/Gnome_sort
+[Quick Sort Wikipedia]: https://en.wikipedia.org/wiki/Quicksort

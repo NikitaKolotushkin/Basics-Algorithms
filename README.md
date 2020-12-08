@@ -15,3 +15,6 @@ Basic algorithms and data structures written in different programming languages
 | Shellsort	 | **O(nlog^2n) - O(n^2)** |
 | Tree sort	 | **O(nlogn)**		   |
 | Heapsort	 | **O(nlogn)**		   |
+| Merge Sort	 | **O(nlogn)**		   |
+| Counting sort	 | **O(n) - O(n + k)**	   |
+

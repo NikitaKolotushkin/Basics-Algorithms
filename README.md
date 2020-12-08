@@ -1,2 +1,2 @@
-# Basics-Algorithms
+# Basic-Algorithms
 Basic algorithms and data structures written in different programming languages

@@ -3,21 +3,19 @@ Basic algorithms and data structures written in different programming languages
 
 ## Algorithm complexity comparison
 
-| Algorithm      | Algorithm complexity    | Additional materials	 |
-| -------------- |:-----------------------:| ---------------------------:|
-| Bubble sort    | **O(n^2)**              | Wikipedia[bubble-sort-Wiki] |
-| Shaker sort    | **O(n^2)**              |				 |
-| Selection sort | **O(n^2)**		   |				 |
-| Comb sort      | **O(nlogn) - O(n^2)**   |				 |
-| Insertion sort | **O(n) - O(n^2)**       |				 |
-| Gnome sort	 | **O(n) - O(n^2)**	   |				 |
-| Quick sort	 | **O(nlogn) - O(n^2)**   |				 |
-| Shellsort	 | **O(nlog^2n) - O(n^2)** |				 |
-| Counting sort	 | **O(n) - O(n + k)**	   |				 |
-| Tree sort	 | **O(nlogn)**		   |				 |
-| Heapsort	 | **O(nlogn)**		   |				 |
-| Merge Sort	 | **O(nlogn)**		   |				 |
+| Algorithm      | Algorithm complexity    | Additional materials    |
+| -------------- |:-----------------------:| -----------------------:|
+| Bubble sort    | **O(n^2)**              | [Bubble Sort Wikipedia] |
+| Shaker sort    | **O(n^2)**              |			     |
+| Selection sort | **O(n^2)**		   |			     |
+| Comb sort      | **O(nlogn) - O(n^2)**   |			     |
+| Insertion sort | **O(n) - O(n^2)**       |			     |
+| Gnome sort	 | **O(n) - O(n^2)**	   |			     |
+| Quick sort	 | **O(nlogn) - O(n^2)**   |			     |
+| Shellsort	 | **O(nlog^2n) - O(n^2)** |			     |
+| Counting sort	 | **O(n) - O(n + k)**	   |			     |
+| Tree sort	 | **O(nlogn)**		   |			     |
+| Heapsort	 | **O(nlogn)**		   |			     |
 
 
-
-[bubble-sort-Wiki]: https://en.wikipedia.org/wiki/Bubble_sort
+[Bubble Sort Wikipedia]: https://en.wikipedia.org/wiki/Bubble_sort

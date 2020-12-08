@@ -6,7 +6,7 @@ Basic algorithms and data structures written in different programming languages
 | Algorithm      | Algorithm complexity    | Additional materials    |
 | -------------- |:-----------------------:| -----------------------:|
 | Bubble sort    | **O(n^2)**              | [Bubble Sort Wikipedia] |
-| Shaker sort    | **O(n^2)**              |			     |
+| Shaker sort    | **O(n^2)**              | [Shaker Sort Wikipedia] |
 | Selection sort | **O(n^2)**		   |			     |
 | Comb sort      | **O(nlogn) - O(n^2)**   |			     |
 | Insertion sort | **O(n) - O(n^2)**       |			     |
@@ -19,3 +19,4 @@ Basic algorithms and data structures written in different programming languages
 
 
 [Bubble Sort Wikipedia]: https://en.wikipedia.org/wiki/Bubble_sort
+[Shaker Sort Wikipedia]: https://en.wikipedia.org/wiki/Cocktail_shaker_sort

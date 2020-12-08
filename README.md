@@ -5,4 +5,4 @@ Basic algorithms and data structures written in different programming languages
 
 | Algorithm    | Algorithm complexity |
 | ------------ |:--------------------:|
-| Bubble sort  | O(n^2)               |
+| Bubble sort  | **O(n^2)**           |

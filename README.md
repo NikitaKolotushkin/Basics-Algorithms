@@ -14,8 +14,8 @@ Basic algorithms and data structures written in different programming languages
 | Quick sort	 | **O(nlogn) - O(n^2)**   | [Quick Sort Wikipedia]     |
 | Shellsort	 | **O(nlog^2n) - O(n^2)** | [Shell Sort Wikipedia]     |
 | Counting sort	 | **O(n) - O(n + k)**	   | [Counting Sort Wikipedia]  |
-| Tree sort	 | **O(nlogn)**		   |			        |
-| Heapsort	 | **O(nlogn)**		   |			        |
+| Tree sort	 | **O(nlogn)**		   | [Tree Sort Wikipedia]	|
+| Heapsort	 | **O(nlogn)**		   | [Heap Sort Wikipedia]	|
 
 
 [Bubble Sort Wikipedia]: https://en.wikipedia.org/wiki/Bubble_sort
@@ -27,3 +27,5 @@ Basic algorithms and data structures written in different programming languages
 [Quick Sort Wikipedia]: https://en.wikipedia.org/wiki/Quicksort
 [Shell Sort Wikipedia]: https://en.wikipedia.org/wiki/Shellsort
 [Counting Sort Wikipedia]: https://en.wikipedia.org/wiki/Counting_sort
+[Tree Sort Wikipedia]: https://en.wikipedia.org/wiki/Tree_sort
+[Heap Sort Wikipedia]: https://en.wikipedia.org/wiki/Heapsort

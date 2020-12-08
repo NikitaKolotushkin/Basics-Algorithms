@@ -1,7 +1,7 @@
 # Basic-Algorithms
 Basic algorithms and data structures written in different programming languages
 
-## Algorithm performance comparison
+## Algorithm complexity comparison
 
 | Algorithm      | Algorithm complexity    |
 | -------------- |:-----------------------:|

@@ -1,4 +1,4 @@
-# Basic-Algorithms
+# Basic Algorithms
 Basic algorithms and data structures written in different programming languages
 
 ## Algorithm complexity comparison

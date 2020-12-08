@@ -13,8 +13,8 @@ Basic algorithms and data structures written in different programming languages
 | Gnome sort	 | **O(n) - O(n^2)**	   |
 | Quick sort	 | **O(nlogn) - O(n^2)**   |
 | Shellsort	 | **O(nlog^2n) - O(n^2)** |
+| Counting sort	 | **O(n) - O(n + k)**	   |
 | Tree sort	 | **O(nlogn)**		   |
 | Heapsort	 | **O(nlogn)**		   |
 | Merge Sort	 | **O(nlogn)**		   |
-| Counting sort	 | **O(n) - O(n + k)**	   |
 

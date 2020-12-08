@@ -20,3 +20,4 @@ Basic algorithms and data structures written in different programming languages
 
 [Bubble Sort Wikipedia]: https://en.wikipedia.org/wiki/Bubble_sort
 [Shaker Sort Wikipedia]: https://en.wikipedia.org/wiki/Cocktail_shaker_sort
+[Selection Sort Wikipedia]: https://en.wikipedia.org/wiki/Cocktail_shaker_sort

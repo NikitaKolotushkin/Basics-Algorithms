@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 def selection_sort(list_: list) -> list:
     """Returns a sorted list, by selection sort method
 
